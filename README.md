@@ -1,5 +1,4 @@
 # Diffusion model
-## de-nixdabei-diffusion
 
 * [Running code](https://www.alfred-fuchs.de/WPFInformatik/Fuchs/de-nixdabei-diffusion/src/index.html)
 
